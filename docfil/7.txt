@@ -1,0 +1,9 @@
+<APRIORI ALGORITHM>
+>finding frequent itemset using candidate gerneration.
+
+APRIORI PROPERTY...
+1>all non empty subset of frequent itemset must also be frequent.
+
+STEPS...
+>JOIN STEP....by convention Apriori assumes that item within transaction or itemset are sorted in lexographically order
+>PRUNE STEP 
