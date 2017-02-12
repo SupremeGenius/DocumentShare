@@ -3,7 +3,7 @@
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder1" Runat="Server">
     <form id="form1" runat="server">
         <p>
-            Login Here</p>
+            Login</p>
         <table class="nav-justified">
             <tr>
                 <td style="width: 90px; height: 26px">Email</td>
